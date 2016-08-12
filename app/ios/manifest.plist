@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://fg0815.github.io/app/ios/hackday.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://fg0815.github.io/app/small.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://fg0815.github.io/app/large.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
