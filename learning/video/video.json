@@ -1,0 +1,26 @@
+[
+  {
+    "name": "dolbycanyon",
+    "videoUrl": "videos/dolbycanyon.mp4"
+  },
+  {
+    "name": "DLP_PART_2_768k",
+    "videoUrl": "videos/DLP_PART_2_768k.mp4"
+  },
+  {
+    "name": "TRA3106",
+    "videoUrl": "videos/TRA3106.mp4"
+  },
+  {
+    "name": "P6090053",
+    "videoUrl": "videos/TRA3106.mp4"
+  },
+  {
+    "name": "file_example_MP4_640_3MG",
+    "videoUrl": "videos/file_example_MP4_640_3MG.mp4"
+  },
+  {
+    "name": "SampleVideo_720x480_1mb",
+    "videoUrl": "videos/SampleVideo_720x480_1mb.mp4"
+  }
+]
